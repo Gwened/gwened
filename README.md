@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Gwened
 
-<!--
-**Gwened/gwened** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Corporate career in the video game industry, working as a software engineer on [Ryzom](https://github.com/ryzom) MMORPG (now open-source) then at Ubisoft.
+- My open-source project: TredoList is a browser extension for Trello
+- Involved in a few startups
+- Now available as a freelancer
 
-Here are some ideas to get you started:
+# Techs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fullstack web applications
+  Typescript, React, MongoDB, Postgres, GraphQL, Meteorjs, Next.js, Three.js etc.
+- Desktop Applications
+  C++, Tauri & Electron (Rust + web)
+- Mobile Applications
+  React with Capacitor, React Native
+
